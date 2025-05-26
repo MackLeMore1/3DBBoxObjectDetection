@@ -4,8 +4,5 @@ Implementation of a 3D bbox object detector based on the _3D Bounding Box Estima
 
 As of today, the neural network can perform only single object detection for each image.
 
-Output example:
-
-<p align="center">
-  <img src="./out/out_example" alt="">
-</p>
+Output example:\
+![Alt text](https://github.com/MackLeMore1/3DBBoxObjectDetection/blob/main/out/out_example.png)
